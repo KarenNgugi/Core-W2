@@ -16,10 +16,10 @@ In order to work on the above problem, you need to do the following:
   
 # Dataset
 The main dataset contains demographic information and what financial services are used by individuals across East Africa. This data was extracted from various Finscope surveys ranging from 2016 to 2018, and more information about these surveys can be found here:
- * FinAccess Kenya 2018. [Link] 
- * Finscope Rwanda 2016. [Link] 
- * Finscope Tanzania 2017. [Link] 
- * Finscope Uganda 2018. [Link] 
+ * FinAccess Kenya 2018: https://fsdkenya.org/publication/finaccess2019/ 
+ * Finscope Rwanda 2016: http://www.statistics.gov.rw/publication/finscope-rwanda-2016
+ * Finscope Tanzania 2017: https://www.fsdt.or.tz/finscope/
+ * Finscope Uganda 2018: http://fsduganda.or.ug/finscope-2018-survey-report/
 
 Dataset Files:
  * Variable Definitions: http://bit.ly/VariableDefinitions 
